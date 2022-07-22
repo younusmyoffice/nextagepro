@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Assets/icons/colored/icon-web</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7B939D" offset="0%"></stop>
+            <stop stop-color="#455A64" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#DFF1FD" offset="0%"></stop>
+            <stop stop-color="#BBDEFB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#BFE381" offset="0%"></stop>
+            <stop stop-color="#8BC34A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFF76D" offset="0%"></stop>
+            <stop stop-color="#FFEB3B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Assets/icons/colored/icon-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons8-web" transform="translate(6.000000, 6.000000)" fill-rule="nonzero">
+            <path d="M36,13 L0,13 L0,3 C0,1.343 1.343,0 3,0 L33,0 C34.657,0 36,1.343 36,3 L36,13 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M0,10 L36,10 L36,33 C36,34.657 34.657,36 33,36 L3,36 C1.343,36 0,34.657 0,33 L0,10 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            <circle id="Oval" fill="url(#linearGradient-3)" cx="5" cy="5" r="2"></circle>
+            <circle id="Oval" fill="url(#linearGradient-4)" cx="11" cy="5" r="2"></circle>
+            <path d="M33,6 C33,6.553 32.553,7 32,7 L17,7 C16.447,7 16,6.553 16,6 L16,4 C16,3.447 16.447,3 17,3 L32,3 C32.553,3 33,3.447 33,4 L33,6 Z" id="Path" fill="#FAFAFA"></path>
+            <rect id="Rectangle" fill="#90CAF9" x="3" y="13" width="17" height="11"></rect>
+            <rect id="Rectangle" fill="#90CAF9" x="3" y="27" width="17" height="6"></rect>
+            <rect id="Rectangle" fill="#90CAF9" x="23" y="13" width="10" height="20"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Assets/icons/colored/icon-sewing-tape-measure</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFC200" offset="0%"></stop>
+            <stop stop-color="#FF8F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFC200" offset="0%"></stop>
+            <stop stop-color="#FF8F00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFE751" offset="0%"></stop>
+            <stop stop-color="#FFCA28" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Assets/icons/colored/icon-sewing-tape-measure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons8-sewing-tape-measure" transform="translate(6.000000, 6.000000)" fill-rule="nonzero">
+            <path d="M33.464844,11.125 C35.300781,10.949219 35.8125,9.519531 35.945313,8.566406 C35.890625,6.671875 35.285156,4.71875 31.914063,3.964844 L0,0 L0,9.90625 L19.714844,12.308594 L33.464844,11.125 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M36,36 L4.050781,32.238281 C0.835938,31.597656 0,29.433594 0,27.6875 L0,18.292969 C0,18.402344 0.03125,21.003906 2.644531,21.527344 L36,25.242188 L36,36 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            <path d="M2.644531,21.527344 L15.261719,22.929688 L31.605469,21.453125 C34.8125,21.140625 35.953125,18.851563 35.953125,16.984375 L36,7.910156 C36,8.605469 35.816406,10.898438 33.464844,11.125 L4.082031,13.65625 C4.035156,13.660156 3.988281,13.664063 3.945313,13.675781 C0.828125,14.375 0,16.359375 0,18.058594 L0,18.292969 C0,18.402344 0.03125,21.003906 2.644531,21.527344 Z" id="Path" fill="url(#linearGradient-3)"></path>
+            <polygon id="Path" fill="#ED8F29" points="29 11.511719 27 11.683594 27 18 29 18"></polygon>
+            <polygon id="Path" fill="#ED8F29" points="8.988281 13.230469 7 13.402344 7 17.796875 8.988281 17.796875"></polygon>
+            <polygon id="Path" fill="#ED8F29" points="24.96875 11.855469 23 12.027344 23 15.933594 24.96875 15.933594"></polygon>
+            <path d="M4.082031,13.65625 C4.035156,13.660156 3.988281,13.664063 3.945313,13.675781 C3.601563,13.753906 3.296875,13.851563 3,13.960938 L3,20 L4.992188,20 L4.992188,13.578125 L4.082031,13.65625 Z" id="Path" fill="#ED8F29"></path>
+            <polygon id="Path" fill="#ED8F29" points="12.984375 12.890625 11 13.0625 11 16.960938 12.984375 16.960938"></polygon>
+            <polygon id="Path" fill="#ED8F29" points="21 12.199219 19 12.371094 19 17 21 17"></polygon>
+            <polygon id="Path" fill="#ED8F29" points="32.996094 11.167969 31 11.339844 31.039063 15 32.996094 15"></polygon>
+            <polygon id="Path" fill="#ED8F29" points="17 12.546875 15 12.71875 15 19 17 19"></polygon>
+            <polygon id="Path" fill="#B75F00" points="25 24.019531 23.003906 23.796875 23.003906 27.550781 25 27.550781"></polygon>
+            <polygon id="Path" fill="#B75F00" points="29 24.453125 27.003906 24.230469 27.003906 30 29 30"></polygon>
+            <polygon id="Path" fill="#B75F00" points="5 21.792969 3.003906 21.570313 3.003906 27.550781 5 27.550781"></polygon>
+            <polygon id="Path" fill="#B75F00" points="20.996094 23.550781 19 23.328125 19 27 20.996094 27"></polygon>
+            <polygon id="Path" fill="#B75F00" points="17 23.128906 15.003906 22.90625 15.003906 28.539063 17 28.539063"></polygon>
+            <polygon id="Path" fill="#B75F00" points="9 22.238281 7.003906 22.015625 7.003906 25.570313 9 25.570313"></polygon>
+            <polygon id="Path" fill="#B75F00" points="31 24.601563 31 28 32.996094 28 32.996094 24.820313"></polygon>
+            <polygon id="Path" fill="#B75F00" points="13 22.683594 11.003906 22.460938 11.003906 26.101563 13 26.101563"></polygon>
+            <polygon id="Path" fill="#B75F00" points="20.996094 2.605469 19 2.355469 19 6.394531 20.996094 6.394531"></polygon>
+            <polygon id="Path" fill="#B75F00" points="16.996094 2.109375 15 1.859375 15 7.910156 16.996094 7.910156"></polygon>
+            <polygon id="Path" fill="#B75F00" points="24.996094 3.101563 23.003906 2.851563 23.003906 6.921875 24.996094 6.921875"></polygon>
+            <polygon id="Path" fill="#B75F00" points="4.996094 0.621094 3 0.371094 3 6.921875 4.996094 6.921875"></polygon>
+            <polygon id="Path" fill="#B75F00" points="12.996094 1.613281 11 1.363281 11 5.472656 12.996094 5.472656"></polygon>
+            <polygon id="Path" fill="#B75F00" points="8.996094 1.117188 7 0.867188 7 4.945313 8.996094 4.945313"></polygon>
+            <path d="M32.957031,4.269531 C32.640625,4.152344 32.300781,4.050781 31.914063,3.964844 L31,3.84375 L31,7.457031 L32.957031,7.457031 L32.957031,4.269531 Z" id="Path" fill="#B75F00"></path>
+            <polygon id="Path" fill="#B75F00" points="28.996094 3.597656 27 3.347656 27 9.382813 28.996094 9.382813"></polygon>
+        </g>
+    </g>
+</svg>
