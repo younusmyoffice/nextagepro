@@ -36,7 +36,7 @@
                 <h2 class="title title-center"> Terms of Use</h2>
                 <div class="title-desc-container">
                     <p>
-                        Nature and Applicability of Terms
+                        Nature and Applicability of Terms o
                     </p>
                 </div>
             </div>
