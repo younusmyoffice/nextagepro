@@ -142,7 +142,7 @@
                 <div class="banner cta-simple">
                     <div class="banner-content bg-white d-lg-flex align-items-center">
                         <div class="banner-header pr-lg-7 pb-lg-0 pb-4 mb-lg-0 mb-6">
-                            <h3 class="banner-title font-weight-bold ls-s text-uppercase">Trade-in</h3>
+                            <h3 class="banner-title font-weight-bold ls-s text-uppercase">Trade-inn</h3>
                             <h4 class="banner-subtitle font-weight-normal ls-s text-body">Upgrade and save</h4>
                         </div>
                         <div class="banner-text mb-lg-0 mb-4 mr-lg-4 pl-lg-6 pr-lg-0 pl-2 pr-2">
